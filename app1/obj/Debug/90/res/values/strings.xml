@@ -1,0 +1,1 @@
+<resources><string name="app_name">app1</string><string name="action_settings">Settings</string><string-array name="dropdown_arrays"><item>Escolha um item</item><item>Esportes</item><item>Educação</item><item>Trabalho</item><item>Transporte</item></string-array></resources>

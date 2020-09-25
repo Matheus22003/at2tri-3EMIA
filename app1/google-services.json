@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "55741421445",
+    "firebase_url": "https://jellystone-at.firebaseio.com",
+    "project_id": "jellystone-at",
+    "storage_bucket": "jellystone-at.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55741421445:android:33c733cb87d902435d16ec",
+        "android_client_info": {
+          "package_name": "br.net.codedrops.firebaseandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55741421445-ohuajlsde88rhnqp71vhbbmfeo1cia5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBcGd9TNynSa9a0h9xwyW_VTS7eHgnj4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55741421445-ohuajlsde88rhnqp71vhbbmfeo1cia5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
